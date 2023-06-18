@@ -1,1 +1,2 @@
+Hi there from branch-two;
 Hi there from branch-one;
